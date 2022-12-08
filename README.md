@@ -1,10 +1,16 @@
 #praktikum7
 LATIHAN 1
 ubahlah kode dibawah ini menjadi fungsi menggunakan lambda
-![image5.png](ss/5.png)
+![image1.png](ss/1.png)
+
 Buat program sederhana untuk menambahkan data kedalam sebuah
 list dengan rincian sebagai berikut:
-• Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan) • Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya. • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%) • Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github
+
+• Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan) 
+• Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya. 
+• Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%) 
+• Buat flowchart dan penjelasan programnya pada README.md. 
+• Commit dan push repository ke github
 
 Menggunakan perulangan while
 membuat list []
@@ -33,8 +39,8 @@ print("=========================================================================
 .format (x[0][:9] , x[1][:9],x[2],x[3],x[4],x[5], i)) print("=====================================================================================");
 
 ss dan flowchat :
-![image1.png](ss/1.png)
 ![image2.png](ss/2.png)
 ![image3.png](ss/3.png)
 ![image4.png](ss/4.png)
+![image5.png](ss/5.png)
 ![image6.png](ss/6.png)
